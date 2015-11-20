@@ -103,4 +103,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-DRAGON_URL = 'http://localhost:9999/'
+DRAGON_URL = 'http://127.0.0.1:9999/'
